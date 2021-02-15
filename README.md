@@ -3,4 +3,4 @@
 # Installation
 run 'python install -r requirement.txt'
 
-<img width="1148" alt="스크린샷 2021-02-15 오후 11 12 56" src="https://user-images.githubusercontent.com/78897301/107957066-69e7f280-6fe3-11eb-9e4c-e4f6dc0a768e.png">
+<img width="281" alt="스크린샷 2021-02-15 오후 11 17 31" src="https://user-images.githubusercontent.com/78897301/107957484-0611f980-6fe4-11eb-8632-af730ac09790.png">
